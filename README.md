@@ -1,2 +1,6 @@
 ## ToDo List App
-#### using class based Views
+#### with User registeration , login , search using Class Based Views in Django
+
+
+
+
